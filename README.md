@@ -1,4 +1,4 @@
-# Click & Conquer: A Statistical Study of B2C E-Commerce Behaviour in Vadodara City
+# A Statistical Study of B2C E-Commerce Behaviour in Vadodara City
 
 A survey-based statistical study of online shopping behaviour among 323 respondents from Vadodara, covering platform preferences, payment methods, review habits and checkout barriers.
 
